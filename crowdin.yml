@@ -1,0 +1,5 @@
+files:
+  - source: /administrator/en-GB/*
+    translation: /administrator/%locale%/%original_file_name%
+  - source: /site/en-GB/*
+    translation: /site/%locale%/%original_file_name%
